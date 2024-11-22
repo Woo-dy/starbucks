@@ -42,7 +42,7 @@ A. 2번 내용과 비슷한 내용인데 1차 때 기능에 집중하느라 페�
 - 동일한 이름의 id는 문서에서 한번만 사용이 가능하다.<br/>
 - 지정된 레이아웃 및 폼객체를 제외한 스타일 지정을 위하여 id를 사용하지 않는다.<br/>
 
-###### id 작성법 출처) http://211.218.150.121:7001/guide/menual.html
+###### [id 작성법 출처] <br/> http://211.218.150.121:7001/guide/menual.html
 
 ## class 작성법 ★<br/>
 - 사이트2의 내용을 근거하여 class는 CSS방법론, BEM 작성법을 활용해서 진행합니다. <br/>
@@ -54,4 +54,4 @@ A. 2번 내용과 비슷한 내용인데 1차 때 기능에 집중하느라 페�
 - 작성 방법은 [페이지 명칭__내용] 예를 들어 공지사항 기준 [notice__title] 이런 식으로 작성을 해주시면 됩니다. <br/>
 - 항상 페이지 명칭을 앞에 작성 후 언더바(_) 2번 하고 그 뒤 작성할 css명창을 작성해주세요. <br/>
 
-###### class 작성법 출처) http://211.218.150.121:7001/guide/menual.html](https://velog.io/@gogi7979/HTML-CSS-%EB%84%A4%EC%9D%B4%EB%B0%8D#q3-css%EB%B0%A9%EB%B2%95%EB%A1%A0-bem%EC%9D%B4%EB%9E%80
+###### [class 작성법 출처] <br/> http://211.218.150.121:7001/guide/menual.html](https://velog.io/@gogi7979/HTML-CSS-%EB%84%A4%EC%9D%B4%EB%B0%8D#q3-css%EB%B0%A9%EB%B2%95%EB%A1%A0-bem%EC%9D%B4%EB%9E%80
