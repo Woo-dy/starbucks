@@ -21,6 +21,9 @@ A. 2번 내용과 비슷한 내용인데 1차 때 기능에 집중하느라 페�
    &lt;header&gt; <br/>
    &nbsp;&nbsp;&nbsp; &lt;div onclick="move_noticeList()"&gt;페이지명&lt;/div&gt; <br/>
    &lt;/header &gt; <br/>
+3. oclick 시 통합 이동 파일로 이동해서 controller 를 거쳐서 파일이 출력되는 부분을 확인하신 후 나오면 작업 진행해주세요.<br/>
+
+###### 현재 명칭 정리 중이라 통합 이동 파일명과 onclick 이동명 규칙이 정해지면 업데이트 후 안내드리겠습니다.
 
 #### [규칙에 대한 참고 자료]
 [사이트1 바로가기](http://211.218.150.121:7001/guide/menual.html) <br/>
