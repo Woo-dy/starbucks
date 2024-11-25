@@ -57,7 +57,7 @@ A. 2번 내용과 비슷한 내용인데 1차 때 기능에 집중하느라 페�
 - 작성 방법은 <b>[페이지 명칭__내용]</b> 예를 들어 공지사항 기준 <b>[notice__title]</b> 이런 식으로 작성을 해주시면 됩니다. <br/>
 - 항상 페이지 명칭을 앞에 작성 후 언더바(_) 2번 하고 그 뒤 작성할 css명칭을 작성해주세요. <br/>
 
-<img src="![101552](https://github.com/user-attachments/assets/8c042cc8-12f7-4da2-9e99-eac85626948e)" style="border: 1px solid grey">
+![101552](https://github.com/user-attachments/assets/8c042cc8-12f7-4da2-9e99-eac85626948e)
 
 #### [class 통합 사용방법 예시]  
 - 현재 시안이 없지만 1차 프로젝트 기준으로 포인되는 녹색컬러 다들 기억하실거라고 생각합니다. <br/>
