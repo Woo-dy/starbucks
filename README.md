@@ -68,7 +68,7 @@ A. 2번 내용과 비슷한 내용인데 1차 때 기능에 집중하느라 페�
 그리고 본인이 필요한 css 영역에 가서 예를 들어 배경색을 바꾸고 싶다면 이미지에 16번째 줄 처럼 <br/>
 <b>background: var(--secondColor);</b> 이렇게 작성 해주시면 상단에서 지정한 색상을 그대로 불러와서 적용시킬 수 있습니다. <br/>
 
-###### [class 작성법 출처] <br/> (https://velog.io/@gogi7979/HTML-CSS-%EB%84%A4%EC%9D%B4%EB%B0%8D#q3-css%EB%B0%A9%EB%B2%95%EB%A1%A0-bem%EC%9D%B4%EB%9E%80)
+###### [class 작성법 출처] <br/> (https://velog.io/@gogi7979/HTML-CSS-%EB%84%A4%EC%9D%B4%EB%B0%8D#q3-css%EB%B0%A9%EB%B2%95%EB%A1%A0-bem%EC%9D%B4%EB%9E%80)<br/><br/>
 
 ## React 파일명 작성법<br/>
 - 리액트에서는 jsx 파일명에 _ (언더바) 가 들어갈 경우 인식이 안되는 것은 아니지만 오류가 난다고 나옵니다. <br/>
